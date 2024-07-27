@@ -1,3 +1,5 @@
+This Angular app allows users to input a feature value and retrieve predictions from a Flask-based SVR model API. It includes form handling, HTTP client integration for API requests, and displays predictions dynamically in the user interface.
+
 # SVRApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
